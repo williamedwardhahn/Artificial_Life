@@ -22,6 +22,7 @@ https://www.scaruffi.com/mind/ns.html
 https://www.scaruffi.com/singular/slides.html
 https://www.scaruffi.com/univ/slides.html
 
+
 Cognitive Science
 https://www.scaruffi.com/know/whatisthe/index.html
 
