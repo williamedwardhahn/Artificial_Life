@@ -14,6 +14,17 @@ Artificial Minds - Stan Franklin
 Turing's Cathedral: The Origins of the Digital Universe
 https://www.youtube.com/watch?v=stSm1cvwnO0
 
+History
+https://www.scaruffi.com/science/elec3.html
+https://www.scaruffi.com/politics/computing.html
+https://www.scaruffi.com/mind/ai.pdf
+https://www.scaruffi.com/mind/ns.html
+https://www.scaruffi.com/singular/slides.html
+https://www.scaruffi.com/univ/slides.html
+
+Cognitive Science
+https://www.scaruffi.com/know/whatisthe/index.html
+
 IAS Report
 https://www.ias.edu/sites/default/files/library/pdfs/ecp/finalreportoncon00inst.pdf
 
