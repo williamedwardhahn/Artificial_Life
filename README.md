@@ -15,6 +15,7 @@ Turing's Cathedral: The Origins of the Digital Universe
 https://www.youtube.com/watch?v=stSm1cvwnO0
 
 History
+https://www.youtube.com/watch?v=te03akBJw1s
 https://www.scaruffi.com/science/elec3.html
 https://www.scaruffi.com/politics/computing.html
 https://www.scaruffi.com/mind/ai.pdf
