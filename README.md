@@ -26,6 +26,9 @@ https://www.scaruffi.com/univ/slides.html
 Cognitive Science
 https://www.scaruffi.com/know/whatisthe/index.html
 
+Von Neumann universal constructor
+https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor
+
 IAS Report
 https://www.ias.edu/sites/default/files/library/pdfs/ecp/finalreportoncon00inst.pdf
 
