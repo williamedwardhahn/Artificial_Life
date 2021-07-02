@@ -14,6 +14,12 @@ Artificial Minds - Stan Franklin
 Turing's Cathedral: The Origins of the Digital Universe
 https://www.youtube.com/watch?v=stSm1cvwnO0
 
+IAS Report
+https://www.ias.edu/sites/default/files/library/pdfs/ecp/finalreportoncon00inst.pdf
+
+Nils Aall Barricelli
+http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf
+
 Project Tierra
 https://www.youtube.com/watch?v=Wl5rRGVD0QI
 
@@ -37,4 +43,5 @@ https://web.archive.org/web/20061007063933/http://www.msci.memphis.edu/~franklin
 
 https://web.archive.org/web/20061009021508/http://www.msci.memphis.edu/~franklin/paradigm.html
 
+https://digitalspace.com/damer.com/writings/doctoral/11-12-BruceDamer-GENES-FINAL-figures.pdf
 
