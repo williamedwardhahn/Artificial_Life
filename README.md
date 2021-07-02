@@ -1,5 +1,7 @@
 # Artificial_Life
 
+<img src="https://forums.civfanatics.com/attachments/menagerie-gif.45103/">
+
 Mind Children: The Future of Robot and Human Intelligence - Hans Moravec
 
 Artificial Minds - Stan Franklin
