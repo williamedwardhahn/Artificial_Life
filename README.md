@@ -21,6 +21,8 @@ https://en.wikipedia.org/wiki/Artificial_life
 
 https://en.wikipedia.org/wiki/Agent-based_model
 
+https://en.wikipedia.org/wiki/Action_selection
+
 https://github.com/williamedwardhahn/ComplexSystems/blob/main/Agent_Based_Models.pdf
 
 https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/SimLife.pdf
