@@ -62,6 +62,10 @@ https://web.archive.org/web/20061009021508/http://www.msci.memphis.edu/~franklin
 https://digitalspace.com/damer.com/writings/doctoral/11-12-BruceDamer-GENES-FINAL-figures.pdf
 
 
+https://www.openttd.org/screenshots/1.3-realgrowth.html
+
+https://www.youtube.com/watch?v=s1i-dnAH9Y4
+
 https://www.youtube.com/watch?v=_-JzxX75oYc
 
 https://www.youtube.com/watch?v=hwutHPYGgfU
