@@ -62,6 +62,10 @@ https://web.archive.org/web/20061009021508/http://www.msci.memphis.edu/~franklin
 https://digitalspace.com/damer.com/writings/doctoral/11-12-BruceDamer-GENES-FINAL-figures.pdf
 
 
+https://www.youtube.com/watch?v=_-JzxX75oYc
+
+https://www.youtube.com/watch?v=hwutHPYGgfU
+
 Classic Simulators
 https://www.myabandonware.com/game/operation-frog-3ds/play-3ds
 
