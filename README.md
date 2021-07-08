@@ -7,6 +7,9 @@ Slides: https://docs.google.com/presentation/d/17wD96RuK5Tqz0TVmKaHcxFah15EYlk4o
 
 Notebook: https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttRa3o?usp=sharing
 
+
+## History
+
 Mind Children: The Future of Robot and Human Intelligence - Hans Moravec
 
 Artificial Minds - Stan Franklin
@@ -14,7 +17,6 @@ Artificial Minds - Stan Franklin
 Turing's Cathedral: The Origins of the Digital Universe
 https://www.youtube.com/watch?v=stSm1cvwnO0
 
-History
 https://www.youtube.com/watch?v=te03akBJw1s
 https://www.scaruffi.com/science/elec3.html
 https://www.scaruffi.com/politics/computing.html
@@ -74,10 +76,10 @@ https://vimeo.com/343839972
 
 https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F
 
-Classic Simulators
+## Classic Simulators
 https://www.myabandonware.com/game/operation-frog-3ds/play-3ds
 
-#Code References
+## Code References
 https://pygame-zero.readthedocs.io/en/stable/resources.html
 
 https://aposteriori.trinket.io/game-development-with-pygame-zero#/intermediate-level/intermediate-course
@@ -85,13 +87,13 @@ https://aposteriori.trinket.io/game-development-with-pygame-zero#/intermediate-l
 https://networkzero.readthedocs.io/en/latest/usage.html#examples
 
 
-#BrAIn
+## BrAIn
 https://youtu.be/tNfP4vqE0No?t=1746
 
 http://agi-conf.org/2011/wp-content/uploads/2009/06/CowardNeuroscienceTrackAGI2011.pdf
 
 
-
+## 100-year-old mechanical computer
 https://www.youtube.com/watch?v=NAsM30MAHLg
 
 
