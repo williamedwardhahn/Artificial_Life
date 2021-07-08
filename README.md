@@ -92,6 +92,7 @@ https://youtu.be/tNfP4vqE0No?t=1746
 
 http://agi-conf.org/2011/wp-content/uploads/2009/06/CowardNeuroscienceTrackAGI2011.pdf
 
+https://instruct.uwo.ca/anatomy/530/NeurGlos.pdf
 
 ## 100-year-old mechanical computer
 https://www.youtube.com/watch?v=NAsM30MAHLg
