@@ -108,3 +108,5 @@ https://www.youtube.com/watch?v=dFZecokdHLo
 https://en.wikipedia.org/wiki/One-instruction_set_computer
 
 https://en.wikipedia.org/wiki/No_instruction_set_computing
+
+https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html
