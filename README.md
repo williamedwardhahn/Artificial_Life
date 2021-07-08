@@ -1,4 +1,4 @@
-# Artificial_Life
+# Artificial Life
 
 <img src="https://forums.civfanatics.com/attachments/menagerie-gif.45103/">
 
