@@ -89,3 +89,10 @@ https://networkzero.readthedocs.io/en/latest/usage.html#examples
 https://youtu.be/tNfP4vqE0No?t=1746
 
 http://agi-conf.org/2011/wp-content/uploads/2009/06/CowardNeuroscienceTrackAGI2011.pdf
+
+
+
+https://www.youtube.com/watch?v=NAsM30MAHLg
+
+
+
