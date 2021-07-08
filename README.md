@@ -96,3 +96,6 @@ https://www.youtube.com/watch?v=NAsM30MAHLg
 
 
 
+## OISC
+https://en.wikipedia.org/wiki/One-instruction_set_computer
+https://en.wikipedia.org/wiki/No_instruction_set_computing
