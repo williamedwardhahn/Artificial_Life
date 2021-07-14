@@ -10,6 +10,10 @@ Notebook: https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttR
 
 ## History
 
+# Connections
+https://archive.org/details/ConnectionsByJamesBurke
+
+
 Mind Children: The Future of Robot and Human Intelligence - Hans Moravec
 
 Artificial Minds - Stan Franklin
@@ -119,5 +123,6 @@ https://docs.google.com/spreadsheets/d/1k2gLT9EhjLrTN9moMVr5Ssk58aHKmAkGoHche49o
 https://colab.research.google.com/drive/14FU689TeAWEL1fr7a-m64qR1ttSKWC7B?usp=sharing
 
 
-# Connections
-https://archive.org/details/ConnectionsByJamesBurke
+
+# Infinite Nature Model
+https://colab.research.google.com/drive/1xB0MozWR3sp22OmB4FIDH0Hk5pkjSP0M?usp=sharing
