@@ -133,3 +133,7 @@ https://github.com/ClointFusion/ClointFusion
 
 # Metabiology
 https://www.youtube.com/watch?v=MGxXPkxJfE0
+
+
+# Alife GPU
+https://github.com/chrxh/alien
