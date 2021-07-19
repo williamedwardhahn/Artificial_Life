@@ -20,8 +20,6 @@ Artificial Minds - Stan Franklin
 
 [Turing's Cathedral: The Origins of the Digital Universe](https://www.youtube.com/watch?v=stSm1cvwnO0)
 
-https://www.youtube.com/watch?v=te03akBJw1s
-
 Piero Scaruffi
 * [A Brief History of Electrical Technology Part 3: The Computer](https://www.scaruffi.com/science/elec3.html)
 * [A Timeline of Computing](https://www.scaruffi.com/politics/computing.html)
@@ -30,6 +28,7 @@ Piero Scaruffi
 * [Artificial Intelligence: History and Status (includes presentation slides)](https://www.scaruffi.com/singular/slides.html)
 * ["Thinking about Thought" - Theories of Brain, Mind and Consciousness](https://www.scaruffi.com/univ/slides.html)
 * ["What is the Dao of an Ant" - Cognitive Science](https://www.scaruffi.com/know/whatisthe/index.html)
+* [PARC Forum: Intelligence is not Artificial: Why the Singularity is Not Coming Any Time Soon - Youtube](https://www.youtube.com/watch?v=te03akBJw1s)
 
 [Von Neumann universal constructor - Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
 
@@ -77,11 +76,11 @@ Piero Scaruffi
 ["OPERATION: FROG" educational game](https://www.myabandonware.com/game/operation-frog-3ds/play-3ds)
 
 ## Code References
-https://pygame-zero.readthedocs.io/en/stable/resources.html
+[Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/resources.html)
 
-https://aposteriori.trinket.io/game-development-with-pygame-zero#/intermediate-level/intermediate-course
+[Game Development with Pygame Zero - course](https://aposteriori.trinket.io/game-development-with-pygame-zero#/intermediate-level/intermediate-course)
 
-https://networkzero.readthedocs.io/en/latest/usage.html#examples
+[NetworkZero (for networking with Python)](https://networkzero.readthedocs.io/en/latest/usage.html#examples)
 
 
 ## BrAIn
@@ -92,29 +91,28 @@ https://networkzero.readthedocs.io/en/latest/usage.html#examples
 [Glossary of Neuroanatomical Terms and Eponyms](https://instruct.uwo.ca/anatomy/530/NeurGlos.pdf)
 
 ## 100-year-old mechanical computer
-https://www.youtube.com/watch?v=NAsM30MAHLg
-
+[Albert Michelson’s Harmonic Analyzer (Part 1/4) - Youtube](https://www.youtube.com/watch?v=NAsM30MAHLg)
 
 
 ## OISC
 
 Machine Code: 
 
-https://www.youtube.com/watch?v=dFZecokdHLo
+[Digital Computer Techniques: Programming (1962) - AT&T Archives - Youtube](https://www.youtube.com/watch?v=dFZecokdHLo)
 
-https://en.wikipedia.org/wiki/One-instruction_set_computer
+[One-instruction set computer - Wikipedia](https://en.wikipedia.org/wiki/One-instruction_set_computer)
 
-https://en.wikipedia.org/wiki/No_instruction_set_computing
+[No instruction set computing - Wikipedia](https://en.wikipedia.org/wiki/No_instruction_set_computing)
 
-https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html
+[Accidentally Turing-Complete - list](https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
 
 # Solresol
 [Solresol dictionary](https://docs.google.com/spreadsheets/d/1k2gLT9EhjLrTN9moMVr5Ssk58aHKmAkGoHche49oseQ/edit?usp=sharing)
+
 [Solresol Colab notebook](https://colab.research.google.com/drive/14FU689TeAWEL1fr7a-m64qR1ttSKWC7B?usp=sharing)
 
 # Infinite Nature Model
 [Infinite Nature demo - Colab notebook](https://colab.research.google.com/drive/1xB0MozWR3sp22OmB4FIDH0Hk5pkjSP0M?usp=sharing)
-
 
 # RPA Tools
 [ClointFusion RPA platform](https://github.com/ClointFusion/ClointFusion)
