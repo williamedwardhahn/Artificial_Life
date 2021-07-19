@@ -29,9 +29,7 @@ Piero Scaruffi
 * [A Timeline of Neuroscience](https://www.scaruffi.com/mind/ns.html)
 * [Artificial Intelligence: History and Status (includes presentation slides)](https://www.scaruffi.com/singular/slides.html)
 * ["Thinking about Thought" - Theories of Brain, Mind and Consciousness](https://www.scaruffi.com/univ/slides.html)
-
-
-[Cognitive Science](https://www.scaruffi.com/know/whatisthe/index.html)
+* ["What is the Dao of an Ant" - Cognitive Science](https://www.scaruffi.com/know/whatisthe/index.html)
 
 [Von Neumann universal constructor - Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
 
@@ -76,7 +74,7 @@ Piero Scaruffi
 ["What Is It Like to Be a Bat?" Consciousness paper - Wikipedia](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 
 ## Classic Simulators
-https://www.myabandonware.com/game/operation-frog-3ds/play-3ds
+["OPERATION: FROG" educational game](https://www.myabandonware.com/game/operation-frog-3ds/play-3ds)
 
 ## Code References
 https://pygame-zero.readthedocs.io/en/stable/resources.html
@@ -87,11 +85,11 @@ https://networkzero.readthedocs.io/en/latest/usage.html#examples
 
 
 ## BrAIn
-https://youtu.be/tNfP4vqE0No?t=1746
+[AGI 2011: AGI and Neuroscience - Youtube (time=29m06s)](https://youtu.be/tNfP4vqE0No?t=1746)
 
-http://agi-conf.org/2011/wp-content/uploads/2009/06/CowardNeuroscienceTrackAGI2011.pdf
+[Andrew Coward's AGI 2011 presentation slides](http://agi-conf.org/2011/wp-content/uploads/2009/06/CowardNeuroscienceTrackAGI2011.pdf)
 
-https://instruct.uwo.ca/anatomy/530/NeurGlos.pdf
+[Glossary of Neuroanatomical Terms and Eponyms](https://instruct.uwo.ca/anatomy/530/NeurGlos.pdf)
 
 ## 100-year-old mechanical computer
 https://www.youtube.com/watch?v=NAsM30MAHLg
@@ -110,25 +108,19 @@ https://en.wikipedia.org/wiki/No_instruction_set_computing
 
 https://beza1e1.tuxen.de/articles/accidentally_turing_complete.html
 
-
-
-
 # Solresol
-https://docs.google.com/spreadsheets/d/1k2gLT9EhjLrTN9moMVr5Ssk58aHKmAkGoHche49oseQ/edit?usp=sharing
-https://colab.research.google.com/drive/14FU689TeAWEL1fr7a-m64qR1ttSKWC7B?usp=sharing
-
-
+[Solresol dictionary](https://docs.google.com/spreadsheets/d/1k2gLT9EhjLrTN9moMVr5Ssk58aHKmAkGoHche49oseQ/edit?usp=sharing)
+[Solresol Colab notebook](https://colab.research.google.com/drive/14FU689TeAWEL1fr7a-m64qR1ttSKWC7B?usp=sharing)
 
 # Infinite Nature Model
-https://colab.research.google.com/drive/1xB0MozWR3sp22OmB4FIDH0Hk5pkjSP0M?usp=sharing
+[Infinite Nature demo - Colab notebook](https://colab.research.google.com/drive/1xB0MozWR3sp22OmB4FIDH0Hk5pkjSP0M?usp=sharing)
 
 
 # RPA Tools
-https://github.com/ClointFusion/ClointFusion
+[ClointFusion RPA platform](https://github.com/ClointFusion/ClointFusion)
 
 # Metabiology
-https://www.youtube.com/watch?v=MGxXPkxJfE0
-
+[Gregory Chaitin Metabiology seminar - Youtube](https://www.youtube.com/watch?v=MGxXPkxJfE0)
 
 # Alife GPU
-https://github.com/chrxh/alien
+[Artificial Life Environment (ALiEn) simulation program](https://github.com/chrxh/alien)
