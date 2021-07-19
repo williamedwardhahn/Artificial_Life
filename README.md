@@ -11,74 +11,69 @@ Notebook: https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttR
 ## History
 
 # Connections
-https://archive.org/details/ConnectionsByJamesBurke
+[Connections by James Burke](https://archive.org/details/ConnectionsByJamesBurke)
 
 
 Mind Children: The Future of Robot and Human Intelligence - Hans Moravec
 
 Artificial Minds - Stan Franklin
 
-Turing's Cathedral: The Origins of the Digital Universe
-https://www.youtube.com/watch?v=stSm1cvwnO0
+[Turing's Cathedral: The Origins of the Digital Universe](https://www.youtube.com/watch?v=stSm1cvwnO0)
 
 https://www.youtube.com/watch?v=te03akBJw1s
-https://www.scaruffi.com/science/elec3.html
-https://www.scaruffi.com/politics/computing.html
-https://www.scaruffi.com/mind/ai.pdf
-https://www.scaruffi.com/mind/ns.html
-https://www.scaruffi.com/singular/slides.html
-https://www.scaruffi.com/univ/slides.html
+
+Piero Scaruffi
+* [A Brief History of Electrical Technology Part 3: The Computer](https://www.scaruffi.com/science/elec3.html)
+* [A Timeline of Computing](https://www.scaruffi.com/politics/computing.html)
+* [A Timeline of Artificial Intelligence](https://www.scaruffi.com/mind/ai.pdf)
+* [A Timeline of Neuroscience](https://www.scaruffi.com/mind/ns.html)
+* [Artificial Intelligence: History and Status (includes presentation slides)](https://www.scaruffi.com/singular/slides.html)
+* ["Thinking about Thought" - Theories of Brain, Mind and Consciousness](https://www.scaruffi.com/univ/slides.html)
 
 
-Cognitive Science
-https://www.scaruffi.com/know/whatisthe/index.html
+[Cognitive Science](https://www.scaruffi.com/know/whatisthe/index.html)
 
-Von Neumann universal constructor
-https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor
+[Von Neumann universal constructor - Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_universal_constructor)
 
-IAS Report
-https://www.ias.edu/sites/default/files/library/pdfs/ecp/finalreportoncon00inst.pdf
+[IAS Report](https://www.ias.edu/sites/default/files/library/pdfs/ecp/finalreportoncon00inst.pdf)
 
-Nils Aall Barricelli
-http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf
+[Nils Aall Barricelli](http://cultureandcommunication.org/galloway/pdf/Galloway-Creative_Evolution-Cabinet_Magazine.pdf)
 
-Project Tierra
-https://www.youtube.com/watch?v=Wl5rRGVD0QI
+[Project Tierra](https://www.youtube.com/watch?v=Wl5rRGVD0QI)
 
-https://en.wikipedia.org/wiki/Artificial_life
+[Artificial Life - Wikipedia](https://en.wikipedia.org/wiki/Artificial_life)
 
-https://en.wikipedia.org/wiki/Agent-based_model
+[Agent-based model - Wikipedia](https://en.wikipedia.org/wiki/Agent-based_model)
 
-https://en.wikipedia.org/wiki/Action_selection
+[Action selection - Wikipedia](https://en.wikipedia.org/wiki/Action_selection)
 
-https://github.com/williamedwardhahn/ComplexSystems/blob/main/Agent_Based_Models.pdf
+[An Introduction to Agent-based Modelling](https://github.com/williamedwardhahn/ComplexSystems/blob/main/Agent_Based_Models.pdf)
 
-https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/SimLife.pdf
+[SimLife video game manual](https://www.gamesdatabase.org/Media/SYSTEM/Microsoft_DOS//Manual/formated/SimLife.pdf)
 
-https://oldgamesdownload.com/wp-content/uploads/SimEarth-Manual-DOS.pdf
+[SimEarth video game manual](https://oldgamesdownload.com/wp-content/uploads/SimEarth-Manual-DOS.pdf)
 
-https://ccl.northwestern.edu/netlogo/
+[NetLogo](https://ccl.northwestern.edu/netlogo/)
 
-http://golly.sourceforge.net/
+[Golly - Sourceforge](http://golly.sourceforge.net/)
 
-https://web.archive.org/web/20061007063933/http://www.msci.memphis.edu/~franklin/aagents.html
+[Autonomous Agents--Mechanisms of Mind - Stan Franklin](https://web.archive.org/web/20061007063933/http://www.msci.memphis.edu/~franklin/aagents.html)
 
-https://web.archive.org/web/20061009021508/http://www.msci.memphis.edu/~franklin/paradigm.html
+[The Action Selection Paradigm - Stan Franklin](https://web.archive.org/web/20061009021508/http://www.msci.memphis.edu/~franklin/paradigm.html)
 
-https://digitalspace.com/damer.com/writings/doctoral/11-12-BruceDamer-GENES-FINAL-figures.pdf
+["CYBERBIOGENESIS AND THE EVOGRID" paper](https://digitalspace.com/damer.com/writings/doctoral/11-12-BruceDamer-GENES-FINAL-figures.pdf)
 
+[OpenTTD screenshot](https://www.openttd.org/screenshots/1.3-realgrowth.html)
 
-https://www.openttd.org/screenshots/1.3-realgrowth.html
+[Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers - Youtube](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
 
-https://www.youtube.com/watch?v=s1i-dnAH9Y4
+[AT&T Archives: A Modern Aladdin's Lamp, about vacuum tubes,1940 - Youtube](https://www.youtube.com/watch?v=_-JzxX75oYc)
 
-https://www.youtube.com/watch?v=_-JzxX75oYc
+[Electronics at Work - 1943 (Complete) - Youtube](https://www.youtube.com/watch?v=hwutHPYGgfU)
 
-https://www.youtube.com/watch?v=hwutHPYGgfU
+[OCR Basics: “Reading and Sorting Mail Automatically” 1970 US Postal Service - Vimeo](https://vimeo.com/343839972)
 
-https://vimeo.com/343839972
-
-https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F
+["What Is It Like to Be a Bat?" Consciousness paper - Wikipedia](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 
 ## Classic Simulators
 https://www.myabandonware.com/game/operation-frog-3ds/play-3ds
