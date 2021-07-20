@@ -84,6 +84,9 @@ Piero Scaruffi
 
 
 ## BrAIn
+
+[Andrew Coward: Understanding consciousness in terms of anatomy and physiology] https://www.youtube.com/watch?v=PVfhLgLpNJc
+
 [AGI 2011: AGI and Neuroscience - Youtube (time=29m06s)](https://youtu.be/tNfP4vqE0No?t=1746)
 
 [Andrew Coward's AGI 2011 presentation slides](http://agi-conf.org/2011/wp-content/uploads/2009/06/CowardNeuroscienceTrackAGI2011.pdf)
