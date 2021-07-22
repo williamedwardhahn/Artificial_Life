@@ -8,6 +8,8 @@ Slides: https://docs.google.com/presentation/d/17wD96RuK5Tqz0TVmKaHcxFah15EYlk4o
 Notebook: https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttRa3o?usp=sharing
 
 
+[Gas Bags of Jupiter] (https://www.centauri-dreams.org/2009/02/25/edwin-salpeter-and-the-gasbags-of-jupiter/)
+
 ## Neural Networks
 https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing
 https://colab.research.google.com/drive/1U2GstWqtGxRcsGbzuwemJ1TpORLcylBh?usp=sharing
