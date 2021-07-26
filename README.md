@@ -26,6 +26,7 @@ https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sh
 # Connections
 [Connections by James Burke](https://archive.org/details/ConnectionsByJamesBurke)
 
+[Genetic Programming - The Movie - Part 1](https://www.youtube.com/watch?v=tTMpKrKkYXo)
 
 Mind Children: The Future of Robot and Human Intelligence - Hans Moravec
 
