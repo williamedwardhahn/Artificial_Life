@@ -130,6 +130,7 @@ Machine Code:
 
 # Infinite Nature Model
 [Infinite Nature demo - Colab notebook](https://colab.research.google.com/drive/1xB0MozWR3sp22OmB4FIDH0Hk5pkjSP0M?usp=sharing)
+[GAUGAN](https://colab.research.google.com/drive/1egS5lLBfUZ1LdlGK1VwlZPY6i2x1n_hs?usp=sharing)
 
 # RPA Tools
 [ClointFusion RPA platform](https://github.com/ClointFusion/ClointFusion)
