@@ -22,6 +22,31 @@ https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sh
 
 ## History
 
+https://www.nvidia.com/en-us/research/ai-playground/
+
+https://www.youtube.com/watch?v=tyvFerDZsuU
+
+https://www.youtube.com/watch?v=SPMFhcC4SvQ
+
+https://www.youtube.com/watch?v=yMeSw00n3Ac
+
+https://www.youtube.com/user/VintageCG/videos
+
+https://www.youtube.com/watch?v=f1DtY42xEOI
+
+https://www.youtube.com/watch?v=aJ6SbvrjxZA
+
+https://www.bbc.com/future/article/20150305-the-birth-of-3d-computer-graphics
+
+https://www.youtube.com/watch?v=vix6TMnj9vY
+
+https://www.youtube.com/watch?v=_f1UgIglXU0
+
+
+[GAUGAN](https://colab.research.google.com/drive/1egS5lLBfUZ1LdlGK1VwlZPY6i2x1n_hs#scrollTo=aNz9UZjenUzZ)
+
+http://nvidia-research-mingyuliu.com/gaugan
+
 # Connections
 [Connections by James Burke](https://archive.org/details/ConnectionsByJamesBurke)
 
