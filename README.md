@@ -11,13 +11,17 @@ Notebook: https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttR
 [Gas Bags of Jupiter](https://www.centauri-dreams.org/2009/02/25/edwin-salpeter-and-the-gasbags-of-jupiter/)
 
 ## Neural Networks
-https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing
-https://colab.research.google.com/drive/1U2GstWqtGxRcsGbzuwemJ1TpORLcylBh?usp=sharing
-https://colab.research.google.com/drive/1hvsRSiaAKzXiM4yMxaXLyCd5fUFZnBVk?usp=sharing
+[Colab - Biostatistics Lab 5 Flowers 102](https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing)
 
-https://colab.research.google.com/drive/1gugRXGuLdmQh8MGK8aojnK4WDerMW0ol?usp=sharing
-https://colab.research.google.com/drive/1LngBKwWdbfD28Hn-OyIW1Ib9p2wsEdYK?usp=sharing
-https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sharing
+[Colab - Summer21 Simple_98_Template (MNIST)](https://colab.research.google.com/drive/1U2GstWqtGxRcsGbzuwemJ1TpORLcylBh?usp=sharing)
+
+[Colab - Complex Systems Lab Linear (MNIST training)](https://colab.research.google.com/drive/1hvsRSiaAKzXiM4yMxaXLyCd5fUFZnBVk?usp=sharing)
+
+[Colab - Simple Single Pixel](https://colab.research.google.com/drive/1gugRXGuLdmQh8MGK8aojnK4WDerMW0ol?usp=sharing)
+
+[Colab - Complex Systems Lab Autoencoder (w/ MNIST)](https://colab.research.google.com/drive/1LngBKwWdbfD28Hn-OyIW1Ib9p2wsEdYK?usp=sharing)
+
+[Colab - Complex Systems Lab GAN](https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sharing)
 
 
 ## History
@@ -36,16 +40,15 @@ https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sh
 
 [Tomorrow's World: Home Computer Terminal 20 September 1967 - BBC - Youtube](https://www.youtube.com/watch?v=aJ6SbvrjxZA)
 
-https://www.bbc.com/future/article/20150305-the-birth-of-3d-computer-graphics
+[The future of 3D computer graphics... from 1982 - BBC](https://www.bbc.com/future/article/20150305-the-birth-of-3d-computer-graphics)
 
-https://www.youtube.com/watch?v=vix6TMnj9vY
+[Tomorrow's World: Mobile Phone 13 September 1979 - BBC - Youtube](https://www.youtube.com/watch?v=vix6TMnj9vY)
 
-https://www.youtube.com/watch?v=_f1UgIglXU0
+[Flying Down To Rio - No. 4 (1932) - Youtube](https://www.youtube.com/watch?v=_f1UgIglXU0)
 
+[Colab - GAUGAN](https://colab.research.google.com/drive/1egS5lLBfUZ1LdlGK1VwlZPY6i2x1n_hs#scrollTo=aNz9UZjenUzZ)
 
-[GAUGAN](https://colab.research.google.com/drive/1egS5lLBfUZ1LdlGK1VwlZPY6i2x1n_hs#scrollTo=aNz9UZjenUzZ)
-
-http://nvidia-research-mingyuliu.com/gaugan
+[GAUGAN - NVIDIA](http://nvidia-research-mingyuliu.com/gaugan)
 
 # Connections
 [Connections by James Burke](https://archive.org/details/ConnectionsByJamesBurke)
