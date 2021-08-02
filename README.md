@@ -22,19 +22,19 @@ https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sh
 
 ## History
 
-https://www.nvidia.com/en-us/research/ai-playground/
+[NVIDIA AI PLAYGROUND](https://www.nvidia.com/en-us/research/ai-playground/)
 
-https://www.youtube.com/watch?v=tyvFerDZsuU
+[History of Computer Animation - Youtube](https://www.youtube.com/watch?v=tyvFerDZsuU)
 
-https://www.youtube.com/watch?v=SPMFhcC4SvQ
+[Early CGI Facial Animation (1974) - Youtube](https://www.youtube.com/watch?v=SPMFhcC4SvQ)
 
-https://www.youtube.com/watch?v=yMeSw00n3Ac
+[Making of the Computer Graphics for Star Wars (Episode IV) - Youtube](https://www.youtube.com/watch?v=yMeSw00n3Ac)
 
-https://www.youtube.com/user/VintageCG/videos
+[VintageCG videos - Youtube](https://www.youtube.com/user/VintageCG/videos)
 
-https://www.youtube.com/watch?v=f1DtY42xEOI
+[Tomorrow's World: Nellie the School Computer 15 February 1969 - BBC - Youtube](https://www.youtube.com/watch?v=f1DtY42xEOI)
 
-https://www.youtube.com/watch?v=aJ6SbvrjxZA
+[Tomorrow's World: Home Computer Terminal 20 September 1967 - BBC - Youtube](https://www.youtube.com/watch?v=aJ6SbvrjxZA)
 
 https://www.bbc.com/future/article/20150305-the-birth-of-3d-computer-graphics
 
