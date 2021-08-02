@@ -3,9 +3,9 @@
 <img src="https://forums.civfanatics.com/attachments/menagerie-gif.45103/">
 
 
-Slides: https://docs.google.com/presentation/d/17wD96RuK5Tqz0TVmKaHcxFah15EYlk4oEgbNLzpHV30/edit?usp=sharing
+**Summer Camp Slides:** https://docs.google.com/presentation/d/17wD96RuK5Tqz0TVmKaHcxFah15EYlk4oEgbNLzpHV30/edit?usp=sharing
 
-Notebook: https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttRa3o?usp=sharing
+**Notebook:** https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttRa3o?usp=sharing
 
 
 [Gas Bags of Jupiter](https://www.centauri-dreams.org/2009/02/25/edwin-salpeter-and-the-gasbags-of-jupiter/)
@@ -126,7 +126,7 @@ Piero Scaruffi
 
 ## BrAIn
 
-[Andrew Coward: Understanding consciousness in terms of anatomy and physiology] https://www.youtube.com/watch?v=PVfhLgLpNJc
+[Andrew Coward: Understanding consciousness in terms of anatomy and physiology](https://www.youtube.com/watch?v=PVfhLgLpNJc)
 
 [AGI 2011: AGI and Neuroscience - Youtube (time=29m06s)](https://youtu.be/tNfP4vqE0No?t=1746)
 
