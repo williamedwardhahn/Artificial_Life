@@ -23,6 +23,7 @@
 
 [Colab - Complex Systems Lab GAN](https://colab.research.google.com/drive/1zP2y8ZVaDeq8bOxwoMBjvNVBVlb4Jmca?usp=sharing)
 
+[TPU](https://colab.research.google.com/drive/17kLEZrpRAuHs5hUvceTR9hA5r3c2LCFf?usp=sharing)
 
 ## History
 
