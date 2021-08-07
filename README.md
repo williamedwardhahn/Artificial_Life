@@ -120,6 +120,8 @@ Piero Scaruffi
 ## Code References
 [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/resources.html)
 
+[Python Arcade](https://learn.arcade.academy/en/latest/)
+
 [Game Development with Pygame Zero - course](https://aposteriori.trinket.io/game-development-with-pygame-zero#/intermediate-level/intermediate-course)
 
 [NetworkZero (for networking with Python)](https://networkzero.readthedocs.io/en/latest/usage.html#examples)
