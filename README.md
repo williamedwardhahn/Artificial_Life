@@ -172,3 +172,6 @@ Machine Code:
 [Artificial Life Environment (ALiEn) simulation program](https://github.com/chrxh/alien)
 
 [Sprite Editor](https://www.piskelapp.com/p/create/sprite)
+
+# Chat Agents
+https://www.renpy.org/why.html
