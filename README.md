@@ -122,6 +122,8 @@ Piero Scaruffi
 
 [Python Arcade](https://learn.arcade.academy/en/latest/)
 
+[Game Assets](https://itch.io/game-assets/free)
+
 [Game Development with Pygame Zero - course](https://aposteriori.trinket.io/game-development-with-pygame-zero#/intermediate-level/intermediate-course)
 
 [NetworkZero (for networking with Python)](https://networkzero.readthedocs.io/en/latest/usage.html#examples)
