@@ -177,3 +177,11 @@ Machine Code:
 
 # Chat Agents
 https://www.renpy.org/why.html
+
+
+# Artifical Universe Project
+https://deep-fold.itch.io/pixel-planet-generator
+https://deep-fold.itch.io/space-background-generator
+https://deep-fold.itch.io/spaceship-generator
+https://deep-fold.itch.io/pixel-sprite-generator
+
