@@ -189,3 +189,11 @@ https://deep-fold.itch.io/spaceship-generator
 https://deep-fold.itch.io/pixel-sprite-generator
 
 https://helianthus-games.itch.io/pixel-art-planets
+
+
+
+# Godel Machine
+https://en.wikipedia.org/wiki/G%C3%B6del_machine
+https://people.idsia.ch/~juergen/
+https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber
+https://www.youtube.com/watch?v=T1Ogwa76yQo
