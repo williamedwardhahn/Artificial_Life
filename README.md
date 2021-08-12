@@ -7,6 +7,7 @@
 
 **Notebook:** https://colab.research.google.com/drive/1-gSLoFom5-G515LHO-XX18Pnf4ttRa3o?usp=sharing
 
+https://colab.research.google.com/drive/1oLcSvRPVNY8weLabexVuQmt2G0qm2e_F?usp=sharing
 
 [Gas Bags of Jupiter](https://www.centauri-dreams.org/2009/02/25/edwin-salpeter-and-the-gasbags-of-jupiter/)
 
