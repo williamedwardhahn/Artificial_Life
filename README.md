@@ -251,6 +251,8 @@ https://opengameart.org/content/lpc-chicken-rework
 
 https://github.com/AgaMiko/pixel_character_generator/blob/master/notebooks/3_DCGAN.ipynb
 
+https://www.youtube.com/watch?v=4aZe84vvE20
+
 # Swarm
 https://github.com/yangliu28/swarm_formation_sim
 
