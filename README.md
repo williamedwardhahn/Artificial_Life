@@ -221,6 +221,7 @@ https://opengameart.org/content/lpc-cats-and-dogs
 
 https://opengameart.org/content/lpc-tile-atlas
 
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
 
 # Godel Machine
 https://en.wikipedia.org/wiki/G%C3%B6del_machine
