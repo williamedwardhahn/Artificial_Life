@@ -208,11 +208,20 @@ https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-ele
 
 https://lpc.opengameart.org/
 
+https://opengameart.org/content/lpc-wolf-animation
+
+https://opengameart.org/content/lpc-cats-and-dogs
+
+https://opengameart.org/content/lpc-tile-atlas
+
 
 # Godel Machine
 https://en.wikipedia.org/wiki/G%C3%B6del_machine
+
 https://people.idsia.ch/~juergen/
+
 https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber
+
 https://www.youtube.com/watch?v=T1Ogwa76yQo
 
 
