@@ -2,6 +2,8 @@
 
 <img src="https://forums.civfanatics.com/attachments/menagerie-gif.45103/">
 
+https://pyweek.org/
+
 Robo Forth https://www.youtube.com/watch?v=56bOOkBa0gg
 
 **Summer Camp Slides:** https://docs.google.com/presentation/d/17wD96RuK5Tqz0TVmKaHcxFah15EYlk4oEgbNLzpHV30/edit?usp=sharing
