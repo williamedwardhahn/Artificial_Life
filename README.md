@@ -184,6 +184,8 @@ Machine Code:
 # Chat Agents
 https://www.renpy.org/why.html
 
+# Engines
+https://github.com/pokepetter/ursina
 
 # Artifical Universe Project
 https://deep-fold.itch.io/pixel-planet-generator
