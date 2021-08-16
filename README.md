@@ -223,6 +223,8 @@ https://opengameart.org/content/lpc-tile-atlas
 
 https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
 
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?sex=male&body=Humanlike_white&eyes=Eyes_green&beard=none&clothes=Sleeved_formal&apron=none&legs=Pantalons_brown&hair=Jewfro_black&hat=Formal_black
+
 # Godel Machine
 https://en.wikipedia.org/wiki/G%C3%B6del_machine
 
