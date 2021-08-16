@@ -248,6 +248,10 @@ https://opengameart.org/content/lpc-mountains
 https://opengameart.org/content/lpc-chicken-rework
 
 
+# Swarm
+https://github.com/yangliu28/swarm_formation_sim
+
+
 
 # Godel Machine
 https://en.wikipedia.org/wiki/G%C3%B6del_machine
