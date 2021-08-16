@@ -247,6 +247,7 @@ https://opengameart.org/content/lpc-mountains
 
 https://opengameart.org/content/lpc-chicken-rework
 
+https://github.com/AgaMiko/pixel_character_generator/blob/master/notebooks/3_DCGAN.ipynb
 
 # Swarm
 https://github.com/yangliu28/swarm_formation_sim
