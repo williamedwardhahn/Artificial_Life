@@ -195,6 +195,8 @@ https://helianthus-games.itch.io/pixel-art-planets
 
 # Artifical Forest / Farm / Fish Tank
 
+https://opengameart.org/content/lpc-plant-repack
+
 https://opengameart.org/content/lpc-conifers
 
 https://www.mapeditor.org/
