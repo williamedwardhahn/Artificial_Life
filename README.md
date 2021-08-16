@@ -197,6 +197,8 @@ https://helianthus-games.itch.io/pixel-art-planets
 
 # Artifical Forest / Farm / Fish Tank
 
+https://www.mikekale.com/modular-sprite-sheets-pygame/
+
 https://opengameart.org/content/lpc-crops
 
 https://opengameart.org/content/lpc-plant-repack
