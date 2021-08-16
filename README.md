@@ -195,10 +195,15 @@ https://helianthus-games.itch.io/pixel-art-planets
 
 # Artifical Forest / Farm / Fish Tank
 https://www.mapeditor.org/
+
 https://opengameart.org/content/lpc-birds
+
 https://opengameart.org/content/2d-platformer-forest-pack
+
 https://opengameart.org/content/bunny-rabbit-lpc-style-for-pixelfarm
+
 https://opengameart.org/content/lpc-style-farm-animals
+
 https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements
 
 https://lpc.opengameart.org/
