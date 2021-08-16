@@ -253,6 +253,8 @@ https://github.com/AgaMiko/pixel_character_generator/blob/master/notebooks/3_DCG
 
 https://www.youtube.com/watch?v=4aZe84vvE20
 
+https://pixelfrog-assets.itch.io/treasure-hunters
+
 # Swarm
 https://github.com/yangliu28/swarm_formation_sim
 
