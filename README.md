@@ -177,6 +177,8 @@ Machine Code:
 
 [Sprite Editor](https://www.piskelapp.com/p/create/sprite)
 
+[Tile Editor](https://github.com/mapeditor/tiled)
+
 # Chat Agents
 https://www.renpy.org/why.html
 
