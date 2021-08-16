@@ -209,6 +209,8 @@ https://opengameart.org/content/lpc-birds
 
 https://opengameart.org/content/2d-platformer-forest-pack
 
+https://opengameart.org/content/lpc-trees
+
 https://opengameart.org/content/bunny-rabbit-lpc-style-for-pixelfarm
 
 https://opengameart.org/content/lpc-style-farm-animals
