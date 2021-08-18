@@ -266,7 +266,8 @@ https://opengameart.org/content/minigolf-kit
 # Swarm
 https://github.com/yangliu28/swarm_formation_sim
 
-
+# Python 2 Web
+https://gatc.ca/2014/11/11/pyjsdl-demo-apps/
 
 # Godel Machine
 https://en.wikipedia.org/wiki/G%C3%B6del_machine
