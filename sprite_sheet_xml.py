@@ -39,9 +39,14 @@ for node in tree.iter():
         map[name]['height'] = int(node.attrib.get('height'))
 
 
-name1 = "car_black_2.png"
-name1 = "car_blue_small_3.png"
 
+
+
+print(names)
+
+r = np.random.randint(0,len(names))
+
+name1 = names[r]
 x = map[name1]["x"]
 y = map[name1]["y"]
 h = map[name1]["width"]
@@ -50,5 +55,3 @@ w = map[name1]["height"]
 image = io.imread(images_url)[:,:,:3]
 
 plot(image[y:y+w,x:x+h])
-
-print(names)
