@@ -201,7 +201,7 @@ https://helianthus-games.itch.io/pixel-art-planets
 https://github.com/clear-code-projects/Space-invaders
 
 
-# Artifical Forest / Farm / Fish Tank
+# Artifical Forest / Farm / Fish Tank / Adventure World
 
 https://ansimuz.itch.io/sunnyland-woods
 
@@ -262,6 +262,8 @@ https://www.youtube.com/watch?v=4aZe84vvE20
 https://pixelfrog-assets.itch.io/treasure-hunters
 
 https://opengameart.org/content/minigolf-kit
+
+https://opengameart.org/content/roguelike-character-pack
 
 # Swarm
 https://github.com/yangliu28/swarm_formation_sim
