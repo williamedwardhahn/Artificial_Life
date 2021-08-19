@@ -243,7 +243,7 @@ https://opengameart.org/content/lpc-tile-atlas
 
 https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/
 
-https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?sex=male&body=Humanlike_white&eyes=Eyes_green&beard=none&clothes=Sleeved_formal&apron=none&legs=Pantalons_brown&hair=Jewfro_black&hat=Formal_black
+https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Humanlike_white&shadow=none&beard=none&facial=none&shoes=Shoes_brown&legs=Pantalons_formal&clothes=Sleeved_formal&jacket=Gentleman_black&eyes=Eyes_blue&hair=Plain_brown
 
 https://opengameart.org/content/lpc-rocks
 
