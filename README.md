@@ -14,6 +14,9 @@ https://colab.research.google.com/drive/1oLcSvRPVNY8weLabexVuQmt2G0qm2e_F?usp=sh
 
 [Gas Bags of Jupiter](https://www.centauri-dreams.org/2009/02/25/edwin-salpeter-and-the-gasbags-of-jupiter/)
 
+# PDE A Life
+https://colab.research.google.com/drive/19GI4TMYYyVBa4vEfbwhx4cOMtM-BdIfw?usp=sharing
+
 ## Neural Networks
 [Colab - Biostatistics Lab 5 Flowers 102](https://colab.research.google.com/drive/1yd33OYJGJpA5hGCuF3Mk_2g-FcgJJY6o?usp=sharing)
 
