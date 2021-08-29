@@ -287,3 +287,7 @@ https://www.youtube.com/watch?v=T1Ogwa76yQo
 
 
 http://www.calresco.org/lucas/classify.htm
+
+
+# Guess Map Game
+https://dafluffypotato.itch.io/maup
