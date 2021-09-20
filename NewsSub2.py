@@ -1,7 +1,7 @@
-import networkzero as nw0
+from networkzero import *
 
-address = nw0.discover("news1")
+address = discover("news1")
 
 while True:
-    topic, humidity = nw0.wait_for_news_from(address, "humidity")
+    topic, humidity = wait_for_news_from(address, "humidity")
     print("Humidity is:", humidity)
