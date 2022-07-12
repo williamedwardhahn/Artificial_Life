@@ -29,3 +29,6 @@
 <a href="https://weightagnostic.github.io/papers/turing1948.pdf">Turing 1948</a>
 
 <a href="https://academic.oup.com/mind/article/LIX/236/433/986238">Turing 1950</a>
+
+<a href="https://en.wikipedia.org/wiki/Agent-oriented_programming">Agent-Oriented Programming</a>
+
