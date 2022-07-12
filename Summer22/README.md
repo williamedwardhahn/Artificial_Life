@@ -13,3 +13,7 @@
 
 <a href="https://en.wikipedia.org/wiki/ESP32">ESP32</a>
 
+<a href="https://opengameart.org/">Graphics</a>
+
+<a href="https://flipperzero.one/">Flipper Zero</a>
+
