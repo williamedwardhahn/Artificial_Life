@@ -1,9 +1,8 @@
 # Artificial Life
 
-# Summer Workshop 2022
+## Summer Workshop 2022
 
-
-## Tuesday 7/12
+### Tuesday 7/12
 
 <a href="">Video (Coming Soon!)</a>
 
