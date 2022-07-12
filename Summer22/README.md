@@ -17,3 +17,10 @@
 
 <a href="https://flipperzero.one/">Flipper Zero</a>
 
+<a href="https://www.youtube.com/watch?v=v-R3X_mEebg">Polyworld I</a>
+
+<a href="https://www.youtube.com/watch?v=IcQcnplUccw">Polyworld II</a>
+
+<a href="https://www.youtube.com/watch?v=_m97_kL4ox0">Polyworld III</a>
+
+
