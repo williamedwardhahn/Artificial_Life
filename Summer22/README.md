@@ -1,3 +1,5 @@
+# Artificial Life
+
 # Summer Workshop 2022
 
 
@@ -6,6 +8,8 @@
 <a href="">Video (Coming Soon!)</a>
 
 <a href="https://docs.google.com/presentation/d/1gzbZHesL-_QP3z90P6qiQ0Wxj2cnaETUfU28JvktatM/edit?usp=sharing">Slides</a>
+
+<a href="https://github.com/williamedwardhahn/Artificial_Life/blob/main/Summer22/Artificial%20Life%20Steven%20Levy.pdf">Artificial Life Book</a>
 
 <a href="https://youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc">Automata History Playlist</a>
 
