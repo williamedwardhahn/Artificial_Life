@@ -26,4 +26,6 @@
 
 <a href="https://www.youtube.com/watch?v=_m97_kL4ox0">Polyworld III</a>
 
+<a href="https://weightagnostic.github.io/papers/turing1948.pdf">Turing 1948</a>
 
+<a href="https://academic.oup.com/mind/article/LIX/236/433/986238">Turing 1950</a>
