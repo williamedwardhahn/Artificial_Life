@@ -4,7 +4,7 @@
 
 ### Tuesday 7/12
 
-<a href="">Video (Coming Soon!)</a>
+<a href="https://www.youtube.com/watch?v=5wvj9oQgvVo">Video</a>
 
 <a href="https://docs.google.com/presentation/d/1gzbZHesL-_QP3z90P6qiQ0Wxj2cnaETUfU28JvktatM/edit?usp=sharing">Slides</a>
 
