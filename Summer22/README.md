@@ -32,3 +32,9 @@
 
 <a href="https://en.wikipedia.org/wiki/Agent-oriented_programming">Agent-Oriented Programming</a>
 
+
+### Wednesday 7/13
+
+<a href="https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf">Thinking Forth</a>
+
+
