@@ -34,7 +34,7 @@
 
 <a href="https://thonny.org/">Thonny</a>
 
-<a href="https://en.wikipedia.org/wiki/ESP32">ESP32</a>
+<a href="https://en.wikipedia.org/wiki/ESP32">ESP32 Wiki</a>
 
 <a href="https://colab.research.google.com/drive/10ejZnuWE3xsmfHvx3_xHtekTUK4nFrgW?usp=sharing">Neural Networks Bootcamp Notebook</a>
 
