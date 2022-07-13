@@ -30,7 +30,7 @@
 
 
 ### Wednesday 7/13
-<a href="https://github.com/lemariva/micropython-camera-driver/blob/master/firmware/micropython_camera_feeeb5ea3_esp32_idf4_4.bin">ESP32 Firmware with Camera Support</a>
+<a href="https://github.com/williamedwardhahn/Artificial_Life/blob/main/Summer22/ESP32_Thonny_Setup.md">Setup ESP32 MicroPython Firmware with Camera Support</a>
 
 <a href="https://thonny.org/">Thonny</a>
 
