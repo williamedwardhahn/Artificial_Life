@@ -40,6 +40,9 @@
 <a href="https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf">Thinking Forth</a>
 
 <a href="https://github.com/williamedwardhahn/OISC/blob/main/Forth_Books/Starting%20FORTH%20Introduction%20to%20the%20FORTH%20Language%20and%20Operating%20System%20for%20Beginners%20and%20Professionals%20(Leo%20Brodie).pdf">Starting Forth</a>
+
+<a href="https://github.com/williamedwardhahn/OISC/tree/main/Forth_Books">More Forth Books</a>
+
 <a href=""></a>
 <a href=""></a>
 
