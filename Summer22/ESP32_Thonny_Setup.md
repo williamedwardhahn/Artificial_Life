@@ -18,11 +18,13 @@ pip install esptool
 3) Close Thonny
 
 4) Add these setting and save and close file.
-
+5) 
+```
 [ESP32]
 port = /dev/ttyUSB0
 dtr = False
 rts = False
+```
 
 5) Reopen Thonny
 6) From lower right corner go to "Configure Interpreter"
