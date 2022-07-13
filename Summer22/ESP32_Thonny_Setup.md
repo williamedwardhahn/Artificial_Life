@@ -32,5 +32,5 @@ rts = False
 8) Select port as /dev/ttyUSB0
 9) In the lower right choose "Install or update firmware"
 10) Choose the firmware you downloaded from [here](https://github.com/lemariva/micropython-camera-driver/blob/master/firmware/micropython_camera_feeeb5ea3_esp32_idf4_4.bin)
-11) Flash Device with new Firmware
-12) Test Python Prompt
+11) Flash device with new firmware
+12) Test Python prompt
