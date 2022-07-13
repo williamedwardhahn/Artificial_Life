@@ -12,10 +12,6 @@
 
 <a href="https://youtube.com/playlist?list=PLWmIsQcAzRkpociKv668QO7Zu1u3ZXDKc">Automata History Playlist</a>
 
-<a href="https://thonny.org/">Thonny</a>
-
-<a href="https://en.wikipedia.org/wiki/ESP32">ESP32</a>
-
 <a href="https://opengameart.org/">Graphics</a>
 
 <a href="https://flipperzero.one/">Flipper Zero</a>
@@ -34,6 +30,11 @@
 
 
 ### Wednesday 7/13
+<a href="https://github.com/lemariva/micropython-camera-driver/blob/master/firmware/micropython_camera_feeeb5ea3_esp32_idf4_4.bin">ESP32 Firmware with Camera Support</a>
+
+<a href="https://thonny.org/">Thonny</a>
+
+<a href="https://en.wikipedia.org/wiki/ESP32">ESP32</a>
 
 <a href="https://colab.research.google.com/drive/10ejZnuWE3xsmfHvx3_xHtekTUK4nFrgW?usp=sharing">Neural Networks Bootcamp Notebook</a>
 
