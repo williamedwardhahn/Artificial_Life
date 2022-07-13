@@ -35,6 +35,9 @@
 
 ### Wednesday 7/13
 
+<a href="https://colab.research.google.com/drive/10ejZnuWE3xsmfHvx3_xHtekTUK4nFrgW?usp=sharing">Neural Networks Bootcamp Notebook</a>
+
 <a href="https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf">Thinking Forth</a>
+
 
 
