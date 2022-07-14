@@ -78,5 +78,6 @@
 ### Friday 7/14
 
 <a href="https://en.wikipedia.org/wiki/Wireworld">Wireworld</a>
+
 <a href="https://github.com/FredericaBernkastel/Hutton32-Computer">Hutton 32 Wireworld</a>
 
