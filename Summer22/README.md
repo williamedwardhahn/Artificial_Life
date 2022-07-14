@@ -30,6 +30,9 @@
 
 
 ### Wednesday 7/13
+
+<a href="https://youtu.be/Dznz81AbxgQ">ESP32 Cam Setup Video</a>
+
 <a href="https://github.com/williamedwardhahn/Artificial_Life/blob/main/Summer22/ESP32_Thonny_Setup.md">Setup ESP32 MicroPython Firmware with Camera Support</a>
 
 <a href="https://thonny.org/">Thonny</a>
