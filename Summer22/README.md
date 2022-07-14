@@ -56,9 +56,15 @@
 
 <a href="https://techchannel.att.com/playvideo/2012/11/19/AT&T-Archives-Digital-Computer-Techniques-Programming">Digital Computer Techniques: Programming</a>
 
+<a href="https://techchannel.att.com/play-video.cfm/2012/11/21/at&t-archives-digital-computer-techniques-computer-units">Digital Computer Techniques: Computer Units</a>
+
+
+
 <a href="https://www.youtube.com/watch?v=E3keLeMwfHY">Turing Machine</a>
 
 <a href="https://docs.google.com/presentation/d/18MdBrNyvkrDmge6TshkISkdTC8iUrcNRomAbgyW7ylg/edit?usp=sharing">OISC</a>
+
+<a href="https://skilldrick.github.io/easyforth/">Easy Forth</a>
 
 <a href="https://mishaklopukh.github.io/fithlang/">Fith</a>
 
