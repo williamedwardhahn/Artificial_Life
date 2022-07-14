@@ -49,6 +49,8 @@
 
 ### Thursday 7/14
 
+<a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
+
 <a href="https://techchannel.att.com/play-video.cfm/2012/8/22/AT&T-Archives-Digital-Computer-Techniques">Digital Computer Techniques: Introduction
 </a>
 
@@ -56,8 +58,8 @@
 
 <a href="https://www.youtube.com/watch?v=E3keLeMwfHY">Turing Machine</a>
 
-<a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
+<a href="https://docs.google.com/presentation/d/18MdBrNyvkrDmge6TshkISkdTC8iUrcNRomAbgyW7ylg/edit?usp=sharing">OISC</a>
 
-<a href="https://mishaklopukh.github.io/fithlang/">OISC and Fith</a>
+<a href="https://mishaklopukh.github.io/fithlang/">Fith</a>
 
 
