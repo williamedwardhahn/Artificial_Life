@@ -47,6 +47,10 @@
 
 <a href="https://github.com/williamedwardhahn/OISC/tree/main/Forth_Books">More Forth Books</a>
 
-<a href=""></a>
-<a href=""></a>
+### Thursday 7/14
+
+<a href="https://www.youtube.com/watch?v=E3keLeMwfHY">Turing Machine</a>
+<a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
+<a href="https://mishaklopukh.github.io/fithlang/">OISC and Fith</a>
+
 
