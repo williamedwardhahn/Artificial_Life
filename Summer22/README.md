@@ -51,12 +51,11 @@
 
 <a href="https://www.youtube.com/watch?v=qqlJ50zDgeA">Antikythera Mechanism</a>
 
+<a href="https://www.youtube.com/watch?v=itd-4lMoXgI">James Burke Connections: Jacquard's Loom Clip</a>
 
-<a href="https://www.youtube.com/watch?v=itd-4lMoXgI">James Burke Connections: Jacquard's Loom</a>
+<a href="https://www.youtube.com/watch?v=z6yL0_sDnX0">James Burke Connections: Faith in Numbers Full Episode</a>
 
-
-<a href="https://en.wikipedia.org/wiki/Jacquard_machine">Jacquard Machine</a>
-
+<a href="https://en.wikipedia.org/wiki/Jacquard_machine">Jacquard Machine Wiki</a>
 
 <a href="https://techchannel.att.com/play-video.cfm/2012/8/22/AT&T-Archives-Digital-Computer-Techniques">Digital Computer Techniques: Introduction
 </a>
